@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestWord</string>
+    <string name="test"><p>　　第二条　本法所称保险，是指投保人根据<font color="red">合同</font>约定，向保险人支付保险费，保险人对于<font color="red">合同</font>约定的可能发生的事故因其发生所造成的财产损失承担赔偿保险金责任，或者当被保险人死亡、伤残、疾病或者达到<font color="red">合同</font>约定的年龄、期限等条件时承担给付保险金责任的商业保险行为。</p></string>
+</resources>
